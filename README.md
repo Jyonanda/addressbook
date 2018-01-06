@@ -2,6 +2,7 @@ Modified redme for DevOPS demo
 
 ********************************
 Jyoti-integarting github n jenkin
+jyoti-integrating gitlab n githubb
 Addressbook Tutorial
 ====================
 
